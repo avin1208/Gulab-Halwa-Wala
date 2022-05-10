@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "icon":"flaticon-honey",
+        "image":"assets/images/shop/category/5.jpg",
+        "title":"Gulab Halwa"
+    },
+    {
+        "id":2,
+        "icon":"flaticon-honey-1",
+        "image":"assets/images/shop/category/6.jpg",
+        "title":"Dry Fruit Mithai"
+    },
+    {
+        "id":3,
+        "icon":"flaticon-honey-2",
+        "image":"assets/images/shop/category/7.jpg",
+        "title":"Mawa Mithai"
+    },
+    {
+        "id":4,
+        "icon":"flaticon-honey-3",
+        "image":"assets/images/shop/category/8.jpg",
+        "title":"Desi Ghee Mithai"
+    },
+    {
+        "id":5,
+        "icon":"flaticon-honey-4",
+        "image":"assets/images/shop/category/5.jpg",
+        "title":"Bengali Mithai"
+    },
+    {
+        "id":6,
+        "icon":"flaticon-honey-5",
+        "image":"assets/images/shop/category/6.jpg",
+        "title":"Namkeens"
+    }
+]

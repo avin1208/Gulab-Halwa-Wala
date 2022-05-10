@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "icon":"assets/images/icon-1.png",
+        "title":"Healing with Honey",
+        "text":"Honey use and production have a long and varied history as an ancient activity.",
+        "longtext":"Honey use and production have a long and varied history as an ancient activity. Several cave paintings in Cuevas de la Araña in Spain depict humans foraging for honey at least 8,000 years ago"
+    },
+    {
+        "id":2,
+        "icon":"assets/images/icon-2.png",
+        "title":"Honey for Your Body",
+        "text":"Honey use and production have a long and varied history as an ancient activity.",
+        "longtext":"Honey use and production have a long and varied history as an ancient activity. Several cave paintings in Cuevas de la Araña in Spain depict humans foraging for honey at least 8,000 years ago"
+    },
+    {
+        "id":3,
+        "icon":"assets/images/icon-3.png",
+        "title":"Honey Recipes",
+        "text":"Honey use and production have a long and varied history as an ancient activity.",
+        "longtext":"Honey use and production have a long and varied history as an ancient activity. Several cave paintings in Cuevas de la Araña in Spain depict humans foraging for honey at least 8,000 years ago"
+    }
+]

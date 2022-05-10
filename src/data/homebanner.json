@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "bgimage":"assets/images/96.jpg",
+        "image":"assets/images/shop/s-3.jpg",
+        "couponcode":"WELCOME TO OUR GULAB HALWA WALA SHOP ",
+        "title":"TASTE THE DIFFERENCE",
+        "text":"Delivering sweetness since 1970"
+    },
+    {
+        "id":2,
+        "bgimage":"assets/images/67.jpg",
+        "image":"assets/images/shop/s-5.jpg",
+        "couponcode":"WELCOME TO OUR GULAB HALWA WALA SHOP",
+        "title":" TASTE THE DIFFERENCE",
+        "text":"Delivering sweetness since 1970"
+    }
+]

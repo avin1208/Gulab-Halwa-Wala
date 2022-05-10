@@ -1,0 +1,326 @@
+[
+    {
+        "id":1,
+        "image":"assets/images/team-1.jpg",
+        "name":"Alexis Franchis",
+        "designation":"Founder",
+        "text":"honey contains electrolytes, in the form of acids and minerals, it exhibits varying degrees of electrical conductivity. Measurements of the electrical conductivity.",
+        "social":[
+            {
+                "icon":"fa fa-facebook",
+                "title":"Facebook",
+                "url":"/"
+            },
+            {
+                "icon":"fa fa-dropbox",
+                "title":"Dropbox",
+                "url":"/"
+            },
+            {
+                "icon":"fa fa-drupal",
+                "title":"Drupal",
+                "url":"/"
+            },
+            {
+                "icon":"fa fa-firefox",
+                "title":"Firefox",
+                "url":"/"
+            },
+            {
+                "icon":"fa fa-css3",
+                "title":"CSS3",
+                "url":"/"
+            }
+        ],
+        "contactinfo":[
+            {
+                "icon":"fa fa-phone",
+                "title":"Phone Number",
+                "text":"+123 456 789",
+                "link":false
+            },
+            {
+                "icon":"fa fa-envelope",
+                "title":"Email",
+                "text":"mail@example.com",
+                "link":false
+            },
+            {
+                "icon":"fa fa-globe",
+                "title":"Website",
+                "text":"http://www.example.com",
+                "link":true
+            }
+        ]
+    },
+    {
+        "id":2,
+        "image":"assets/images/team-2.jpg",
+        "name":"Mikado Yankee",
+        "designation":"CEO & Accountant",
+        "text":"honey contains electrolytes, in the form of acids and minerals, it exhibits varying degrees of electrical conductivity. Measurements of the electrical conductivity.",
+        "social":[
+            {
+                "icon":"fa fa-facebook",
+                "title":"Facebook",
+                "url":"/"
+            },
+            {
+                "icon":"fa fa-dropbox",
+                "title":"Dropbox",
+                "url":"/"
+            },
+            {
+                "icon":"fa fa-drupal",
+                "title":"Drupal",
+                "url":"/"
+            },
+            {
+                "icon":"fa fa-firefox",
+                "title":"Firefox",
+                "url":"/"
+            },
+            {
+                "icon":"fa fa-css3",
+                "title":"CSS3",
+                "url":"/"
+            }
+        ],
+        "contactinfo":[
+            {
+                "icon":"fa fa-phone",
+                "title":"Phone Number",
+                "text":"+123 456 789",
+                "link":false
+            },
+            {
+                "icon":"fa fa-envelope",
+                "title":"Email",
+                "text":"mail@example.com",
+                "link":false
+            },
+            {
+                "icon":"fa fa-globe",
+                "title":"Website",
+                "text":"http://www.example.com",
+                "link":true
+            }
+        ]
+    },
+    {
+        "id":3,
+        "image":"assets/images/team-3.jpg",
+        "name":"Lukan BT-Shirtkon",
+        "designation":"Purchase Manager",
+        "text":"honey contains electrolytes, in the form of acids and minerals, it exhibits varying degrees of electrical conductivity. Measurements of the electrical conductivity.",
+        "social":[
+            {
+                "icon":"fa fa-facebook",
+                "title":"Facebook",
+                "url":"/"
+            },
+            {
+                "icon":"fa fa-dropbox",
+                "title":"Dropbox",
+                "url":"/"
+            },
+            {
+                "icon":"fa fa-drupal",
+                "title":"Drupal",
+                "url":"/"
+            },
+            {
+                "icon":"fa fa-firefox",
+                "title":"Firefox",
+                "url":"/"
+            },
+            {
+                "icon":"fa fa-css3",
+                "title":"CSS3",
+                "url":"/"
+            }
+        ],
+        "contactinfo":[
+            {
+                "icon":"fa fa-phone",
+                "title":"Phone Number",
+                "text":"+123 456 789",
+                "link":false
+            },
+            {
+                "icon":"fa fa-envelope",
+                "title":"Email",
+                "text":"mail@example.com",
+                "link":false
+            },
+            {
+                "icon":"fa fa-globe",
+                "title":"Website",
+                "text":"http://www.example.com",
+                "link":true
+            }
+        ]
+    },
+    {
+        "id":4,
+        "image":"assets/images/team-4.jpg",
+        "name":"Romada Limonda",
+        "designation":"Fashion Accountant",
+        "text":"honey contains electrolytes, in the form of acids and minerals, it exhibits varying degrees of electrical conductivity. Measurements of the electrical conductivity.",
+        "social":[
+            {
+                "icon":"fa fa-facebook",
+                "title":"Facebook",
+                "url":"/"
+            },
+            {
+                "icon":"fa fa-dropbox",
+                "title":"Dropbox",
+                "url":"/"
+            },
+            {
+                "icon":"fa fa-drupal",
+                "title":"Drupal",
+                "url":"/"
+            },
+            {
+                "icon":"fa fa-firefox",
+                "title":"Firefox",
+                "url":"/"
+            },
+            {
+                "icon":"fa fa-css3",
+                "title":"CSS3",
+                "url":"/"
+            }
+        ],
+        "contactinfo":[
+            {
+                "icon":"fa fa-phone",
+                "title":"Phone Number",
+                "text":"+123 456 789",
+                "link":false
+            },
+            {
+                "icon":"fa fa-envelope",
+                "title":"Email",
+                "text":"mail@example.com",
+                "link":false
+            },
+            {
+                "icon":"fa fa-globe",
+                "title":"Website",
+                "text":"http://www.example.com",
+                "link":true
+            }
+        ]
+    },
+    {
+        "id":5,
+        "image":"assets/images/team-5.jpg",
+        "name":"Jurano Miranda Li",
+        "designation":"Sales Manager",
+        "text":"honey contains electrolytes, in the form of acids and minerals, it exhibits varying degrees of electrical conductivity. Measurements of the electrical conductivity.",
+        "social":[
+            {
+                "icon":"fa fa-facebook",
+                "title":"Facebook",
+                "url":"/"
+            },
+            {
+                "icon":"fa fa-dropbox",
+                "title":"Dropbox",
+                "url":"/"
+            },
+            {
+                "icon":"fa fa-drupal",
+                "title":"Drupal",
+                "url":"/"
+            },
+            {
+                "icon":"fa fa-firefox",
+                "title":"Firefox",
+                "url":"/"
+            },
+            {
+                "icon":"fa fa-css3",
+                "title":"CSS3",
+                "url":"/"
+            }
+        ],
+        "contactinfo":[
+            {
+                "icon":"fa fa-phone",
+                "title":"Phone Number",
+                "text":"+123 456 789",
+                "link":false
+            },
+            {
+                "icon":"fa fa-envelope",
+                "title":"Email",
+                "text":"mail@example.com",
+                "link":false
+            },
+            {
+                "icon":"fa fa-globe",
+                "title":"Website",
+                "text":"http://www.example.com",
+                "link":true
+            }
+        ]
+    },
+    {
+        "id":6,
+        "image":"assets/images/team-6.jpg",
+        "name":"Tornado G. Bul Gul",
+        "designation":"Accountant",
+        "text":"honey contains electrolytes, in the form of acids and minerals, it exhibits varying degrees of electrical conductivity. Measurements of the electrical conductivity.",
+        "social":[
+            {
+                "icon":"fa fa-facebook",
+                "title":"Facebook",
+                "url":"/"
+            },
+            {
+                "icon":"fa fa-dropbox",
+                "title":"Dropbox",
+                "url":"/"
+            },
+            {
+                "icon":"fa fa-drupal",
+                "title":"Drupal",
+                "url":"/"
+            },
+            {
+                "icon":"fa fa-firefox",
+                "title":"Firefox",
+                "url":"/"
+            },
+            {
+                "icon":"fa fa-css3",
+                "title":"CSS3",
+                "url":"/"
+            }
+        ],
+        "contactinfo":[
+            {
+                "icon":"fa fa-phone",
+                "title":"Phone Number",
+                "text":"+123 456 789",
+                "link":false
+            },
+            {
+                "icon":"fa fa-envelope",
+                "title":"Email",
+                "text":"mail@example.com",
+                "link":false
+            },
+            {
+                "icon":"fa fa-globe",
+                "title":"Website",
+                "text":"http://www.example.com",
+                "link":true
+            }
+        ]
+    }
+]

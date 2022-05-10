@@ -1,0 +1,186 @@
+[
+    {
+        "id": 1,
+        "title": "Collect Honey",
+        "image": [
+            "assets/images/portfolio-1.jpg",
+            "assets/images/portfolio-2.jpg",
+            "assets/images/portfolio-3.jpg"
+        ],
+        "category": [
+            1
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "client": [
+            1
+        ],
+        "location": "Dubai",
+        "production": "Kilos",
+        "htmldesc": "<p>Honey is a sweet, viscous food substance made by honey bees and some related insects. Bees produce honey from the sugary secretions of plants (floral nectar) or from secretions of other insects (such as honeydew), by regurgitation, enzymatic activity, and water evaporation. Bees store.</p><p>Leaving the hive, a foraging bee collects sugar-rich flower nectar, sucking it through its proboscis and placing it in its proventriculus (honey stomach or crop), which lies just dorsal to its food stomach. The honey stomach holds about 40 mg of nectar, or roughly 50% of the bee's unloaded weight, which can require over a thousand flowers and more than an hour to fill. The nectar generally begins with a water content of 70 to 80%.Salivary enzymes and proteins from the bee's hypopharyngeal gland are added to the nectar to begin breaking down the sugars, raising the water content slightly. The forager bees then return to the hive, where they regurgitate and transfer nectar to the hive bees. The hive bees then use their honey stomachs to ingest and regurgitate the nectar, forming bubbles between their mandibles repeatedly until it is partially digested. The bubbles create a large surface area per volume and a portion of the water.</p><blockquote><p>The bees work together as a group with the regurgitation and digestion for as long as 20 minutes, passing the nectar from one bee to the next, until the product reaches the honeycombs in storage quality.</p><div class='quote_owner'>- Rosalina Pong</div></blockquote><p>To safely collect honey from a hive, beekeepers typically pacify the bees using a bee smoker. The smoke triggers a feeding instinct (an attempt to save the resources of the hive from a possible fire), making them less aggressive, and obscures the pheromones the bees use to communicate. The honeycomb is removed from the hive and the honey may be extracted from it either by crushing or by using a honey extractor. The honey is then usually filtered to remove beeswax and other debris.</p><h5>TASTE THE DIFFERENCE</h5><p>Before the invention of removable frames, bee colonies were often sacrificed to conduct the harvest. The harvester would take all the available honey and replace the entire colony the next spring. Since the invention of removable frames, the principles of husbandry led most beekeepers to ensure that their bees have enough stores to survive the winter,either by leaving some honey in the beehive or by providing the colony with a honey substitute such as sugar water or crystalline sugar . The amount of food necessary to survive the winter depends on the variety of bees and on the length and severity of local winters.</p>"
+    },
+    {
+        "id": 2,
+        "title": "Yeild Of Honey",
+        "image": [
+            "assets/images/portfolio-2.jpg",
+            "assets/images/portfolio-3.jpg",
+            "assets/images/portfolio-4.jpg"
+        ],
+        "category": [
+            2
+        ],
+        "tags": [
+            4,
+            5,
+            6
+        ],
+        "client": [
+            2
+        ],
+        "location": "Dubai",
+        "production": "Kilos",
+        "htmldesc": "<p>Honey is a sweet, viscous food substance made by honey bees and some related insects. Bees produce honey from the sugary secretions of plants (floral nectar) or from secretions of other insects (such as honeydew), by regurgitation, enzymatic activity, and water evaporation. Bees store.</p><p>Leaving the hive, a foraging bee collects sugar-rich flower nectar, sucking it through its proboscis and placing it in its proventriculus (honey stomach or crop), which lies just dorsal to its food stomach. The honey stomach holds about 40 mg of nectar, or roughly 50% of the bee's unloaded weight, which can require over a thousand flowers and more than an hour to fill. The nectar generally begins with a water content of 70 to 80%.Salivary enzymes and proteins from the bee's hypopharyngeal gland are added to the nectar to begin breaking down the sugars, raising the water content slightly. The forager bees then return to the hive, where they regurgitate and transfer nectar to the hive bees. The hive bees then use their honey stomachs to ingest and regurgitate the nectar, forming bubbles between their mandibles repeatedly until it is partially digested. The bubbles create a large surface area per volume and a portion of the water.</p><blockquote><p>The bees work together as a group with the regurgitation and digestion for as long as 20 minutes, passing the nectar from one bee to the next, until the product reaches the honeycombs in storage quality.</p><div class='quote_owner'>- Rosalina Pong</div></blockquote><p>To safely collect honey from a hive, beekeepers typically pacify the bees using a bee smoker. The smoke triggers a feeding instinct (an attempt to save the resources of the hive from a possible fire), making them less aggressive, and obscures the pheromones the bees use to communicate. The honeycomb is removed from the hive and the honey may be extracted from it either by crushing or by using a honey extractor. The honey is then usually filtered to remove beeswax and other debris.</p><h5>TASTE THE DIFFERENCE</h5><p>Before the invention of removable frames, bee colonies were often sacrificed to conduct the harvest. The harvester would take all the available honey and replace the entire colony the next spring. Since the invention of removable frames, the principles of husbandry led most beekeepers to ensure that their bees have enough stores to survive the winter,either by leaving some honey in the beehive or by providing the colony with a honey substitute such as sugar water or crystalline sugar . The amount of food necessary to survive the winter depends on the variety of bees and on the length and severity of local winters.</p>"
+    },
+    {
+        "id": 3,
+        "title": "Vinegar & Honey",
+        "image": [
+            "assets/images/portfolio-3.jpg",
+            "assets/images/portfolio-4.jpg",
+            "assets/images/portfolio-5.jpg"
+        ],
+        "category": [
+            3
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "client": [
+            3
+        ],
+        "location": "Dubai",
+        "production": "Kilos",
+        "htmldesc": "<p>Honey is a sweet, viscous food substance made by honey bees and some related insects. Bees produce honey from the sugary secretions of plants (floral nectar) or from secretions of other insects (such as honeydew), by regurgitation, enzymatic activity, and water evaporation. Bees store.</p><p>Leaving the hive, a foraging bee collects sugar-rich flower nectar, sucking it through its proboscis and placing it in its proventriculus (honey stomach or crop), which lies just dorsal to its food stomach. The honey stomach holds about 40 mg of nectar, or roughly 50% of the bee's unloaded weight, which can require over a thousand flowers and more than an hour to fill. The nectar generally begins with a water content of 70 to 80%.Salivary enzymes and proteins from the bee's hypopharyngeal gland are added to the nectar to begin breaking down the sugars, raising the water content slightly. The forager bees then return to the hive, where they regurgitate and transfer nectar to the hive bees. The hive bees then use their honey stomachs to ingest and regurgitate the nectar, forming bubbles between their mandibles repeatedly until it is partially digested. The bubbles create a large surface area per volume and a portion of the water.</p><blockquote><p>The bees work together as a group with the regurgitation and digestion for as long as 20 minutes, passing the nectar from one bee to the next, until the product reaches the honeycombs in storage quality.</p><div class='quote_owner'>- Rosalina Pong</div></blockquote><p>To safely collect honey from a hive, beekeepers typically pacify the bees using a bee smoker. The smoke triggers a feeding instinct (an attempt to save the resources of the hive from a possible fire), making them less aggressive, and obscures the pheromones the bees use to communicate. The honeycomb is removed from the hive and the honey may be extracted from it either by crushing or by using a honey extractor. The honey is then usually filtered to remove beeswax and other debris.</p><h5>TASTE THE DIFFERENCE</h5><p>Before the invention of removable frames, bee colonies were often sacrificed to conduct the harvest. The harvester would take all the available honey and replace the entire colony the next spring. Since the invention of removable frames, the principles of husbandry led most beekeepers to ensure that their bees have enough stores to survive the winter,either by leaving some honey in the beehive or by providing the colony with a honey substitute such as sugar water or crystalline sugar . The amount of food necessary to survive the winter depends on the variety of bees and on the length and severity of local winters.</p>"
+    },
+    {
+        "id": 4,
+        "title": "Raw Honey",
+        "image": [
+            "assets/images/portfolio-4.jpg",
+            "assets/images/portfolio-5.jpg",
+            "assets/images/portfolio-6.jpg"
+        ],
+        "category": [
+            4
+        ],
+        "tags": [
+            4,
+            5,
+            6
+        ],
+        "client": [
+            1
+        ],
+        "location": "Dubai",
+        "production": "Kilos",
+        "htmldesc": "<p>Honey is a sweet, viscous food substance made by honey bees and some related insects. Bees produce honey from the sugary secretions of plants (floral nectar) or from secretions of other insects (such as honeydew), by regurgitation, enzymatic activity, and water evaporation. Bees store.</p><p>Leaving the hive, a foraging bee collects sugar-rich flower nectar, sucking it through its proboscis and placing it in its proventriculus (honey stomach or crop), which lies just dorsal to its food stomach. The honey stomach holds about 40 mg of nectar, or roughly 50% of the bee's unloaded weight, which can require over a thousand flowers and more than an hour to fill. The nectar generally begins with a water content of 70 to 80%.Salivary enzymes and proteins from the bee's hypopharyngeal gland are added to the nectar to begin breaking down the sugars, raising the water content slightly. The forager bees then return to the hive, where they regurgitate and transfer nectar to the hive bees. The hive bees then use their honey stomachs to ingest and regurgitate the nectar, forming bubbles between their mandibles repeatedly until it is partially digested. The bubbles create a large surface area per volume and a portion of the water.</p><blockquote><p>The bees work together as a group with the regurgitation and digestion for as long as 20 minutes, passing the nectar from one bee to the next, until the product reaches the honeycombs in storage quality.</p><div class='quote_owner'>- Rosalina Pong</div></blockquote><p>To safely collect honey from a hive, beekeepers typically pacify the bees using a bee smoker. The smoke triggers a feeding instinct (an attempt to save the resources of the hive from a possible fire), making them less aggressive, and obscures the pheromones the bees use to communicate. The honeycomb is removed from the hive and the honey may be extracted from it either by crushing or by using a honey extractor. The honey is then usually filtered to remove beeswax and other debris.</p><h5>TASTE THE DIFFERENCE</h5><p>Before the invention of removable frames, bee colonies were often sacrificed to conduct the harvest. The harvester would take all the available honey and replace the entire colony the next spring. Since the invention of removable frames, the principles of husbandry led most beekeepers to ensure that their bees have enough stores to survive the winter,either by leaving some honey in the beehive or by providing the colony with a honey substitute such as sugar water or crystalline sugar . The amount of food necessary to survive the winter depends on the variety of bees and on the length and severity of local winters.</p>"
+    },
+    {
+        "id": 5,
+        "title": "Bifido Bacteria",
+        "image": [
+            "assets/images/portfolio-5.jpg",
+            "assets/images/portfolio-6.jpg",
+            "assets/images/portfolio-7.jpg"
+        ],
+        "category": [
+            5
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "client": [
+            2
+        ],
+        "location": "Dubai",
+        "production": "Kilos",
+        "htmldesc": "<p>Honey is a sweet, viscous food substance made by honey bees and some related insects. Bees produce honey from the sugary secretions of plants (floral nectar) or from secretions of other insects (such as honeydew), by regurgitation, enzymatic activity, and water evaporation. Bees store.</p><p>Leaving the hive, a foraging bee collects sugar-rich flower nectar, sucking it through its proboscis and placing it in its proventriculus (honey stomach or crop), which lies just dorsal to its food stomach. The honey stomach holds about 40 mg of nectar, or roughly 50% of the bee's unloaded weight, which can require over a thousand flowers and more than an hour to fill. The nectar generally begins with a water content of 70 to 80%.Salivary enzymes and proteins from the bee's hypopharyngeal gland are added to the nectar to begin breaking down the sugars, raising the water content slightly. The forager bees then return to the hive, where they regurgitate and transfer nectar to the hive bees. The hive bees then use their honey stomachs to ingest and regurgitate the nectar, forming bubbles between their mandibles repeatedly until it is partially digested. The bubbles create a large surface area per volume and a portion of the water.</p><blockquote><p>The bees work together as a group with the regurgitation and digestion for as long as 20 minutes, passing the nectar from one bee to the next, until the product reaches the honeycombs in storage quality.</p><div class='quote_owner'>- Rosalina Pong</div></blockquote><p>To safely collect honey from a hive, beekeepers typically pacify the bees using a bee smoker. The smoke triggers a feeding instinct (an attempt to save the resources of the hive from a possible fire), making them less aggressive, and obscures the pheromones the bees use to communicate. The honeycomb is removed from the hive and the honey may be extracted from it either by crushing or by using a honey extractor. The honey is then usually filtered to remove beeswax and other debris.</p><h5>TASTE THE DIFFERENCE</h5><p>Before the invention of removable frames, bee colonies were often sacrificed to conduct the harvest. The harvester would take all the available honey and replace the entire colony the next spring. Since the invention of removable frames, the principles of husbandry led most beekeepers to ensure that their bees have enough stores to survive the winter,either by leaving some honey in the beehive or by providing the colony with a honey substitute such as sugar water or crystalline sugar . The amount of food necessary to survive the winter depends on the variety of bees and on the length and severity of local winters.</p>"
+    },
+    {
+        "id": 6,
+        "title": "Natural Honey",
+        "image": [
+            "assets/images/portfolio-6.jpg",
+            "assets/images/portfolio-7.jpg",
+            "assets/images/portfolio-8.jpg"
+        ],
+        "category": [
+            6
+        ],
+        "tags": [
+            4,
+            5,
+            6
+        ],
+        "client": [
+            3
+        ],
+        "location": "Dubai",
+        "production": "Kilos",
+        "htmldesc": "<p>Honey is a sweet, viscous food substance made by honey bees and some related insects. Bees produce honey from the sugary secretions of plants (floral nectar) or from secretions of other insects (such as honeydew), by regurgitation, enzymatic activity, and water evaporation. Bees store.</p><p>Leaving the hive, a foraging bee collects sugar-rich flower nectar, sucking it through its proboscis and placing it in its proventriculus (honey stomach or crop), which lies just dorsal to its food stomach. The honey stomach holds about 40 mg of nectar, or roughly 50% of the bee's unloaded weight, which can require over a thousand flowers and more than an hour to fill. The nectar generally begins with a water content of 70 to 80%.Salivary enzymes and proteins from the bee's hypopharyngeal gland are added to the nectar to begin breaking down the sugars, raising the water content slightly. The forager bees then return to the hive, where they regurgitate and transfer nectar to the hive bees. The hive bees then use their honey stomachs to ingest and regurgitate the nectar, forming bubbles between their mandibles repeatedly until it is partially digested. The bubbles create a large surface area per volume and a portion of the water.</p><blockquote><p>The bees work together as a group with the regurgitation and digestion for as long as 20 minutes, passing the nectar from one bee to the next, until the product reaches the honeycombs in storage quality.</p><div class='quote_owner'>- Rosalina Pong</div></blockquote><p>To safely collect honey from a hive, beekeepers typically pacify the bees using a bee smoker. The smoke triggers a feeding instinct (an attempt to save the resources of the hive from a possible fire), making them less aggressive, and obscures the pheromones the bees use to communicate. The honeycomb is removed from the hive and the honey may be extracted from it either by crushing or by using a honey extractor. The honey is then usually filtered to remove beeswax and other debris.</p><h5>TASTE THE DIFFERENCE</h5><p>Before the invention of removable frames, bee colonies were often sacrificed to conduct the harvest. The harvester would take all the available honey and replace the entire colony the next spring. Since the invention of removable frames, the principles of husbandry led most beekeepers to ensure that their bees have enough stores to survive the winter,either by leaving some honey in the beehive or by providing the colony with a honey substitute such as sugar water or crystalline sugar . The amount of food necessary to survive the winter depends on the variety of bees and on the length and severity of local winters.</p>"
+    },
+    {
+        "id": 7,
+        "title": "Honey harvest",
+        "image": [
+            "assets/images/portfolio-7.jpg",
+            "assets/images/portfolio-8.jpg",
+            "assets/images/portfolio-1.jpg"
+        ],
+        "category": [
+            7
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "client": [
+            1
+        ],
+        "location": "Dubai",
+        "production": "Kilos",
+        "htmldesc": "<p>Honey is a sweet, viscous food substance made by honey bees and some related insects. Bees produce honey from the sugary secretions of plants (floral nectar) or from secretions of other insects (such as honeydew), by regurgitation, enzymatic activity, and water evaporation. Bees store.</p><p>Leaving the hive, a foraging bee collects sugar-rich flower nectar, sucking it through its proboscis and placing it in its proventriculus (honey stomach or crop), which lies just dorsal to its food stomach. The honey stomach holds about 40 mg of nectar, or roughly 50% of the bee's unloaded weight, which can require over a thousand flowers and more than an hour to fill. The nectar generally begins with a water content of 70 to 80%.Salivary enzymes and proteins from the bee's hypopharyngeal gland are added to the nectar to begin breaking down the sugars, raising the water content slightly. The forager bees then return to the hive, where they regurgitate and transfer nectar to the hive bees. The hive bees then use their honey stomachs to ingest and regurgitate the nectar, forming bubbles between their mandibles repeatedly until it is partially digested. The bubbles create a large surface area per volume and a portion of the water.</p><blockquote><p>The bees work together as a group with the regurgitation and digestion for as long as 20 minutes, passing the nectar from one bee to the next, until the product reaches the honeycombs in storage quality.</p><div class='quote_owner'>- Rosalina Pong</div></blockquote><p>To safely collect honey from a hive, beekeepers typically pacify the bees using a bee smoker. The smoke triggers a feeding instinct (an attempt to save the resources of the hive from a possible fire), making them less aggressive, and obscures the pheromones the bees use to communicate. The honeycomb is removed from the hive and the honey may be extracted from it either by crushing or by using a honey extractor. The honey is then usually filtered to remove beeswax and other debris.</p><h5>TASTE THE DIFFERENCE</h5><p>Before the invention of removable frames, bee colonies were often sacrificed to conduct the harvest. The harvester would take all the available honey and replace the entire colony the next spring. Since the invention of removable frames, the principles of husbandry led most beekeepers to ensure that their bees have enough stores to survive the winter,either by leaving some honey in the beehive or by providing the colony with a honey substitute such as sugar water or crystalline sugar . The amount of food necessary to survive the winter depends on the variety of bees and on the length and severity of local winters.</p>"
+    },
+    {
+        "id": 8,
+        "title": "Honey Production",
+        "image": [
+            "assets/images/portfolio-8.jpg",
+            "assets/images/portfolio-1.jpg",
+            "assets/images/portfolio-2.jpg"
+        ],
+        "category": [
+            8
+        ],
+        "tags": [
+            4,
+            5,
+            6
+        ],
+        "client": [
+            2
+        ],
+        "location": "Dubai",
+        "production": "Kilos",
+        "htmldesc": "<p>Honey is a sweet, viscous food substance made by honey bees and some related insects. Bees produce honey from the sugary secretions of plants (floral nectar) or from secretions of other insects (such as honeydew), by regurgitation, enzymatic activity, and water evaporation. Bees store.</p><p>Leaving the hive, a foraging bee collects sugar-rich flower nectar, sucking it through its proboscis and placing it in its proventriculus (honey stomach or crop), which lies just dorsal to its food stomach. The honey stomach holds about 40 mg of nectar, or roughly 50% of the bee's unloaded weight, which can require over a thousand flowers and more than an hour to fill. The nectar generally begins with a water content of 70 to 80%.Salivary enzymes and proteins from the bee's hypopharyngeal gland are added to the nectar to begin breaking down the sugars, raising the water content slightly. The forager bees then return to the hive, where they regurgitate and transfer nectar to the hive bees. The hive bees then use their honey stomachs to ingest and regurgitate the nectar, forming bubbles between their mandibles repeatedly until it is partially digested. The bubbles create a large surface area per volume and a portion of the water.</p><blockquote><p>The bees work together as a group with the regurgitation and digestion for as long as 20 minutes, passing the nectar from one bee to the next, until the product reaches the honeycombs in storage quality.</p><div class='quote_owner'>- Rosalina Pong</div></blockquote><p>To safely collect honey from a hive, beekeepers typically pacify the bees using a bee smoker. The smoke triggers a feeding instinct (an attempt to save the resources of the hive from a possible fire), making them less aggressive, and obscures the pheromones the bees use to communicate. The honeycomb is removed from the hive and the honey may be extracted from it either by crushing or by using a honey extractor. The honey is then usually filtered to remove beeswax and other debris.</p><h5>TASTE THE DIFFERENCE</h5><p>Before the invention of removable frames, bee colonies were often sacrificed to conduct the harvest. The harvester would take all the available honey and replace the entire colony the next spring. Since the invention of removable frames, the principles of husbandry led most beekeepers to ensure that their bees have enough stores to survive the winter,either by leaving some honey in the beehive or by providing the colony with a honey substitute such as sugar water or crystalline sugar . The amount of food necessary to survive the winter depends on the variety of bees and on the length and severity of local winters.</p>"
+    }
+]

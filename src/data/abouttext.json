@@ -1,0 +1,80 @@
+[
+    {
+        "id":1,
+        "title":"Mission",
+        "icon":"flaticon-jersey-blazer",
+        "info":[
+            {
+                "title":"Collection of Headers",
+                "subtitle":"Fully Fexiable",
+                "desc":"<p>Use the collection of distinct and powerful sliders will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.It is a long established shop for our customers will be distracted </p><p><strong>We have the great collection of distinct and powerful sliders in Grayson to showcase your top products and highlight your</strong></p>",
+                "counter":[
+                    {
+                        "title":"Honey sale Per Day",
+                        "value":25
+                    },
+                    {
+                        "title":"Years Practical Experience",
+                        "value":58
+                    },
+                    {
+                        "title":"Awesome Team Members",
+                        "value":30
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id":2,
+        "title":"Vision",
+        "icon":"flaticon-security",
+        "info":[
+            {
+                "title":"Collection of Headers",
+                "subtitle":"Fully Fexiable",
+                "desc":"<p>Use the collection of distinct and powerful sliders will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.It is a long established shop for our customers will be distracted </p><p><strong>We have the great collection of distinct and powerful sliders in Grayson to showcase your top products and highlight your</strong></p>",
+                "counter":[
+                    {
+                        "title":"Honey sale Per Day",
+                        "value":25
+                    },
+                    {
+                        "title":"Years Practical Experience",
+                        "value":58
+                    },
+                    {
+                        "title":"Awesome Team Members",
+                        "value":30
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id":3,
+        "title":"Goal",
+        "icon":"flaticon-target",
+        "info":[
+            {
+                "title":"Collection of Headers",
+                "subtitle":"Fully Fexiable",
+                "desc":"<p>Use the collection of distinct and powerful sliders will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.It is a long established shop for our customers will be distracted </p><p><strong>We have the great collection of distinct and powerful sliders in Grayson to showcase your top products and highlight your</strong></p>",
+                "counter":[
+                    {
+                        "title":"Honey sale Per Day",
+                        "value":25
+                    },
+                    {
+                        "title":"Years Practical Experience",
+                        "value":58
+                    },
+                    {
+                        "title":"Awesome Team Members",
+                        "value":30
+                    }
+                ]
+            }
+        ]
+    }
+]

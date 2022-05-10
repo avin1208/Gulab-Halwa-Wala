@@ -1,0 +1,161 @@
+[
+    {
+        "id": 1,
+        "linkText": "Home",
+        "child": true,
+        "submenu": [
+            {
+                "id": 1.1,
+                "link": "/",
+                "linkText": "Home v1"
+            },
+            {
+                "id": 1.2,
+                "link": "/home-v2",
+                "linkText": "Home v2"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "link": "/about",
+        "linkText": "About"
+    },
+    {
+        "id": 3,
+        "linkText": "Portfolio",
+        "child": true,
+        "submenu": [
+            {
+                "id": 3.1,
+                "link": "/portfolio",
+                "linkText": "Portfolio"
+            },
+            {
+                "id": 3.2,
+                "link": "/portfolio-details/1",
+                "linkText": "Portfolio Details"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "linkText": "Service",
+        "child": true,
+        "submenu": [
+            {
+                "id": 4.1,
+                "link": "/services",
+                "linkText": "Services"
+            },
+            {
+                "id": 4.2,
+                "link": "/service-details",
+                "linkText": "Service Details"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "linkText": "Pages",
+        "child": true,
+        "submenu": [
+            {
+                "id": 5.1,
+                "linkText": "Team",
+                "child": true,
+                "submenu": [
+                    {
+                        "id": 5.11,
+                        "link": "/team",
+                        "linkText": "Team"
+                    },
+                    {
+                        "id": 5.12,
+                        "link": "/team-details/1",
+                        "linkText": "Team Details"
+                    }
+                ]
+            },
+            {
+                "id": 5.2,
+                "link": "/faqs",
+                "linkText": "FAQ's"
+            },
+            {
+                "id": 5.3,
+                "link": "/gallery",
+                "linkText": "Gallery"
+            },
+            {
+                "id": 5.4,
+                "link": "/contact",
+                "linkText": "Contact"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "linkText": "Shop",
+        "child": true,
+        "submenu": [
+            {
+                "id": 6.1,
+                "link": "/shop",
+                "linkText": "Shop Grid"
+            },
+            {
+                "id": 6.2,
+                "link": "/shop-left",
+                "linkText": "Shop Left Sidebar"
+            },
+            {
+                "id": 6.3,
+                "link": "/shop-right",
+                "linkText": "Shop Right Sidebar"
+            },
+            {
+                "id": 6.4,
+                "link": "/shop-details/1",
+                "linkText": "Shop Details"
+            },
+            {
+                "id": 6.5,
+                "link": "/cart",
+                "linkText": "Cart"
+            },
+            {
+                "id": 6.6,
+                "link": "/checkout",
+                "linkText": "Checkout"
+            },
+            {
+                "id": 6.7,
+                "link": "/wishlist",
+                "linkText": "Wishlist"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "linkText": "Blog",
+        "child": true,
+        "submenu": [
+            {
+                "id": 7.1,
+                "link": "/blog-grid",
+                "linkText": "Blog Grid"
+            },
+            {
+                "id": 7.2,
+                "link": "/blog",
+                "linkText": "Blog List"
+            },
+            {
+                "id": 7.3,
+                "link": "/blog-details/1",
+                "linkText": "Blog Details"
+            }
+        ]
+    }
+]

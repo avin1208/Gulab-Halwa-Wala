@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "image":"assets/images/shop/hot-product/1.jpg",
+        "title":"Beekeeper",
+        "text":"The Best Look Anyhere"
+    },
+    {
+        "id":2,
+        "image":"assets/images/shop/hot-product/4.jpg",
+        "title":"Beekeeping",
+        "text":"Live According to Fashion"
+    }
+]

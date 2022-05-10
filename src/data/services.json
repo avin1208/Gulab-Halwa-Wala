@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "icon":"assets/images/service-1.png",
+        "title":"Honey production",
+        "text":"The physical properties of honey vary, depending on water content, the type of flora used to produce it (pasturage), temperature, and the proportion of the specific sugars it contains. Fresh honey is a supersaturated liquid."
+    },
+    {
+        "id":2,
+        "icon":"assets/images/service-2.png",
+        "title":"Honey shop",
+        "text":"The physical properties of honey vary, depending on water content, the type of flora used to produce it (pasturage), temperature, and the proportion of the specific sugars it contains. Fresh honey is a supersaturated liquid."
+    },
+    {
+        "id":3,
+        "icon":"assets/images/service-3.png",
+        "title":"Beekeeping classes",
+        "text":"The physical properties of honey vary, depending on water content, the type of flora used to produce it (pasturage), temperature, and the proportion of the specific sugars it contains. Fresh honey is a supersaturated liquid."
+    },
+    {
+        "id":4,
+        "icon":"assets/images/service-4.png",
+        "title":"Swarm removal",
+        "text":"The physical properties of honey vary, depending on water content, the type of flora used to produce it (pasturage), temperature, and the proportion of the specific sugars it contains. Fresh honey is a supersaturated liquid."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "image":"assets/images/shop/hot-product/1.jpg",
+        "tag":"Beehive"
+    },
+    {
+        "id":2,
+        "image":"assets/images/shop/hot-product/5.jpg",
+        "tag":"Honeybee"
+    },
+    {
+        "id":3,
+        "image":"assets/images/shop/hot-product/6.jpg",
+        "tag":"Honey"
+    },
+    {
+        "id":4,
+        "image":"assets/images/shop/hot-product/7.jpg",
+        "tag":"Beekeeper"
+    }
+]

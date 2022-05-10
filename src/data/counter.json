@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "icon":"flaticon-honey-6",
+        "title":"Online Sale",
+        "value":12090
+    },
+    {
+        "id":2,
+        "icon":"flaticon-coffee-cup",
+        "title":"cup of coffee",
+        "value":10070
+    },
+    {
+        "id":3,
+        "icon":"flaticon-happy",
+        "title":"Happy Clients",
+        "value":89016
+    },
+    {
+        "id":4,
+        "icon":"flaticon-award",
+        "title":"Winning awards",
+        "value":570
+    }
+]

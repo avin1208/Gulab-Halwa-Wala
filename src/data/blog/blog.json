@@ -1,0 +1,219 @@
+[
+    {
+        "id": 1,
+        "title": "Mood for trying a different taste of honey.",
+        "image": [
+            "assets/images/blog/1.jpg"
+        ],
+        "category": [
+            1,
+            2
+        ],
+        "tags": [
+            1,
+            2
+        ],
+        "format": "standard",
+        "shortdesc": "Generally, honey is classified by the floral source of the nectar from which it was made. Honeys can be from specific types of flower nectars or can be blended after collection. The pollen in honey is traceable to floral source...",
+        "postdate": "10 Apr 2021",
+        "htmldesc": "<p>High-quality honey can be distinguished by fragrance, taste, and consistency. Ripe, freshly collected, high-quality honey at 20 °C (68 °F) should flow from a knife in a straight stream, without breaking into separate drops</p><p>fresh honey should appear as a pure, consistent fluid, and should not set in layers. Within a few weeks to a few months of extraction, many varieties of honey crystallize into a cream-colored solid. Some varieties of honey, including tupelo, acacia, and sage, crystallize less regularly. Honey may be heated during bottling at temperatures of 40–49 °C (104–120 °F) to delay or inhibit crystallization. Overheating is indicated by change in enzyme levels, for instance, diastase activity, which can be determined with the Schade or the Phadebas methods. A fluffy film on the surface of the honey (like a white foam), or marble-colored or white-spotted crystallization on a container's sides, is formed by air bubbles trapped during the bottling process.</p><blockquote><p>A 2008 Italian study determined that nuclear magnetic resonance spectroscopy can be used to distinguish between different honey types, and can be used to pinpoint the area where it was produced.</p><div class='quote_owner'>- Rosalina Pong</div></blockquote><p>Honey is a popular folk treatment for burns and other skin injuries. Preliminary evidence suggests that it aids in the healing of partial thickness burns 4–5 days faster than other dressings, and moderate evidence suggests that post-operative infections treated with honey heal faster and with fewer adverse events than with antiseptic and gauze. The evidence for the use of honey in various other wound treatments is of low quality, and firm conclusions cannot be drawn. Evidence does not support the use of honey-based products for the treatment of venous stasis ulcers or ingrown toenail.Several medical-grade honey products have been approved by the FDA for use in treating minor wounds and burns.</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "15th April, 2021",
+                "comment": "Honey is a sweet, viscous food substance made by honey bees and some related insects eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "commentdate": "14th April, 2021",
+                "comment": "Honey is a sweet, viscous food substance made by honey bees and some related insects eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "The perfect solution for your sudden dry.",
+        "image": [
+            "assets/images/blog/2.jpg"
+        ],
+        "category": [
+            3,
+            4
+        ],
+        "tags": [
+            3,
+            4
+        ],
+        "format": "video",
+        "video": "https://www.youtube.com/watch?v=KH1pcNUTa6U",
+        "shortdesc": "Generally, honey is classified by the floral source of the nectar from which it was made. Honeys can be from specific types of flower nectars or can be blended after collection. The pollen in honey is traceable to floral source...",
+        "postdate": "9 Apr 2021",
+        "htmldesc": "<p>High-quality honey can be distinguished by fragrance, taste, and consistency. Ripe, freshly collected, high-quality honey at 20 °C (68 °F) should flow from a knife in a straight stream, without breaking into separate drops</p><p>fresh honey should appear as a pure, consistent fluid, and should not set in layers. Within a few weeks to a few months of extraction, many varieties of honey crystallize into a cream-colored solid. Some varieties of honey, including tupelo, acacia, and sage, crystallize less regularly. Honey may be heated during bottling at temperatures of 40–49 °C (104–120 °F) to delay or inhibit crystallization. Overheating is indicated by change in enzyme levels, for instance, diastase activity, which can be determined with the Schade or the Phadebas methods. A fluffy film on the surface of the honey (like a white foam), or marble-colored or white-spotted crystallization on a container's sides, is formed by air bubbles trapped during the bottling process.</p><blockquote><p>A 2008 Italian study determined that nuclear magnetic resonance spectroscopy can be used to distinguish between different honey types, and can be used to pinpoint the area where it was produced.</p><div class='quote_owner'>- Rosalina Pong</div></blockquote><p>Honey is a popular folk treatment for burns and other skin injuries. Preliminary evidence suggests that it aids in the healing of partial thickness burns 4–5 days faster than other dressings, and moderate evidence suggests that post-operative infections treated with honey heal faster and with fewer adverse events than with antiseptic and gauze. The evidence for the use of honey in various other wound treatments is of low quality, and firm conclusions cannot be drawn. Evidence does not support the use of honey-based products for the treatment of venous stasis ulcers or ingrown toenail.Several medical-grade honey products have been approved by the FDA for use in treating minor wounds and burns.</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "15th April, 2021",
+                "comment": "Honey is a sweet, viscous food substance made by honey bees and some related insects eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "commentdate": "14th April, 2021",
+                "comment": "Honey is a sweet, viscous food substance made by honey bees and some related insects eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Good taste, good honey, good life.",
+        "image": [
+            "assets/images/blog/3.jpg",
+            "assets/images/blog/2.jpg",
+            "assets/images/blog/1.jpg"
+        ],
+        "category": [
+            5,
+            1
+        ],
+        "tags": [
+            5,
+            1
+        ],
+        "format": "gallery",
+        "shortdesc": "Generally, honey is classified by the floral source of the nectar from which it was made. Honeys can be from specific types of flower nectars or can be blended after collection. The pollen in honey is traceable to floral source...",
+        "postdate": "8 Apr 2021",
+        "htmldesc": "<p>High-quality honey can be distinguished by fragrance, taste, and consistency. Ripe, freshly collected, high-quality honey at 20 °C (68 °F) should flow from a knife in a straight stream, without breaking into separate drops</p><p>fresh honey should appear as a pure, consistent fluid, and should not set in layers. Within a few weeks to a few months of extraction, many varieties of honey crystallize into a cream-colored solid. Some varieties of honey, including tupelo, acacia, and sage, crystallize less regularly. Honey may be heated during bottling at temperatures of 40–49 °C (104–120 °F) to delay or inhibit crystallization. Overheating is indicated by change in enzyme levels, for instance, diastase activity, which can be determined with the Schade or the Phadebas methods. A fluffy film on the surface of the honey (like a white foam), or marble-colored or white-spotted crystallization on a container's sides, is formed by air bubbles trapped during the bottling process.</p><blockquote><p>A 2008 Italian study determined that nuclear magnetic resonance spectroscopy can be used to distinguish between different honey types, and can be used to pinpoint the area where it was produced.</p><div class='quote_owner'>- Rosalina Pong</div></blockquote><p>Honey is a popular folk treatment for burns and other skin injuries. Preliminary evidence suggests that it aids in the healing of partial thickness burns 4–5 days faster than other dressings, and moderate evidence suggests that post-operative infections treated with honey heal faster and with fewer adverse events than with antiseptic and gauze. The evidence for the use of honey in various other wound treatments is of low quality, and firm conclusions cannot be drawn. Evidence does not support the use of honey-based products for the treatment of venous stasis ulcers or ingrown toenail.Several medical-grade honey products have been approved by the FDA for use in treating minor wounds and burns.</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "15th April, 2021",
+                "comment": "Honey is a sweet, viscous food substance made by honey bees and some related insects eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "commentdate": "14th April, 2021",
+                "comment": "Honey is a sweet, viscous food substance made by honey bees and some related insects eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Do you love honey? You will surely love us.",
+        "image": [
+            "assets/images/blog/4.jpg"
+        ],
+        "category": [
+            2,
+            3
+        ],
+        "tags": [
+            2,
+            3
+        ],
+        "format": "quote",
+        "quote": "A 2008 Italian study determined that nuclear magnetic resonance spectroscopy can be used to distinguish between different honey types, and can be used to pinpoint the area where it was produced.",
+        "quoteauthor": "Rosalina Pong",
+        "shortdesc": "Generally, honey is classified by the floral source of the nectar from which it was made. Honeys can be from specific types of flower nectars or can be blended after collection. The pollen in honey is traceable to floral source...",
+        "postdate": "7 Apr 2021",
+        "htmldesc": "<p>High-quality honey can be distinguished by fragrance, taste, and consistency. Ripe, freshly collected, high-quality honey at 20 °C (68 °F) should flow from a knife in a straight stream, without breaking into separate drops</p><p>fresh honey should appear as a pure, consistent fluid, and should not set in layers. Within a few weeks to a few months of extraction, many varieties of honey crystallize into a cream-colored solid. Some varieties of honey, including tupelo, acacia, and sage, crystallize less regularly. Honey may be heated during bottling at temperatures of 40–49 °C (104–120 °F) to delay or inhibit crystallization. Overheating is indicated by change in enzyme levels, for instance, diastase activity, which can be determined with the Schade or the Phadebas methods. A fluffy film on the surface of the honey (like a white foam), or marble-colored or white-spotted crystallization on a container's sides, is formed by air bubbles trapped during the bottling process.</p><blockquote><p>A 2008 Italian study determined that nuclear magnetic resonance spectroscopy can be used to distinguish between different honey types, and can be used to pinpoint the area where it was produced.</p><div class='quote_owner'>- Rosalina Pong</div></blockquote><p>Honey is a popular folk treatment for burns and other skin injuries. Preliminary evidence suggests that it aids in the healing of partial thickness burns 4–5 days faster than other dressings, and moderate evidence suggests that post-operative infections treated with honey heal faster and with fewer adverse events than with antiseptic and gauze. The evidence for the use of honey in various other wound treatments is of low quality, and firm conclusions cannot be drawn. Evidence does not support the use of honey-based products for the treatment of venous stasis ulcers or ingrown toenail.Several medical-grade honey products have been approved by the FDA for use in treating minor wounds and burns.</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "15th April, 2021",
+                "comment": "Honey is a sweet, viscous food substance made by honey bees and some related insects eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "commentdate": "14th April, 2021",
+                "comment": "Honey is a sweet, viscous food substance made by honey bees and some related insects eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "The best for your health from our bees",
+        "image": [
+            "assets/images/blog/5.jpg"
+        ],
+        "category": [
+            4,
+            5
+        ],
+        "tags": [
+            4,
+            5
+        ],
+        "format": "audio",
+        "audio": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/41395010&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&visual=true",
+        "shortdesc": "Generally, honey is classified by the floral source of the nectar from which it was made. Honeys can be from specific types of flower nectars or can be blended after collection. The pollen in honey is traceable to floral source...",
+        "postdate": "6 Apr 2021",
+        "htmldesc": "<p>High-quality honey can be distinguished by fragrance, taste, and consistency. Ripe, freshly collected, high-quality honey at 20 °C (68 °F) should flow from a knife in a straight stream, without breaking into separate drops</p><p>fresh honey should appear as a pure, consistent fluid, and should not set in layers. Within a few weeks to a few months of extraction, many varieties of honey crystallize into a cream-colored solid. Some varieties of honey, including tupelo, acacia, and sage, crystallize less regularly. Honey may be heated during bottling at temperatures of 40–49 °C (104–120 °F) to delay or inhibit crystallization. Overheating is indicated by change in enzyme levels, for instance, diastase activity, which can be determined with the Schade or the Phadebas methods. A fluffy film on the surface of the honey (like a white foam), or marble-colored or white-spotted crystallization on a container's sides, is formed by air bubbles trapped during the bottling process.</p><blockquote><p>A 2008 Italian study determined that nuclear magnetic resonance spectroscopy can be used to distinguish between different honey types, and can be used to pinpoint the area where it was produced.</p><div class='quote_owner'>- Rosalina Pong</div></blockquote><p>Honey is a popular folk treatment for burns and other skin injuries. Preliminary evidence suggests that it aids in the healing of partial thickness burns 4–5 days faster than other dressings, and moderate evidence suggests that post-operative infections treated with honey heal faster and with fewer adverse events than with antiseptic and gauze. The evidence for the use of honey in various other wound treatments is of low quality, and firm conclusions cannot be drawn. Evidence does not support the use of honey-based products for the treatment of venous stasis ulcers or ingrown toenail.Several medical-grade honey products have been approved by the FDA for use in treating minor wounds and burns.</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "15th April, 2021",
+                "comment": "Honey is a sweet, viscous food substance made by honey bees and some related insects eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "commentdate": "14th April, 2021",
+                "comment": "Honey is a sweet, viscous food substance made by honey bees and some related insects eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Our Bees Are Working For Your Health",
+        "image": [
+            "assets/images/blog/6.jpg"
+        ],
+        "category": [
+            1,
+            2
+        ],
+        "tags": [
+            1,
+            2
+        ],
+        "format": "link",
+        "link": "www.example.com",
+        "shortdesc": "Generally, honey is classified by the floral source of the nectar from which it was made. Honeys can be from specific types of flower nectars or can be blended after collection. The pollen in honey is traceable to floral source...",
+        "postdate": "5 Apr 2021",
+        "htmldesc": "<p>High-quality honey can be distinguished by fragrance, taste, and consistency. Ripe, freshly collected, high-quality honey at 20 °C (68 °F) should flow from a knife in a straight stream, without breaking into separate drops</p><p>fresh honey should appear as a pure, consistent fluid, and should not set in layers. Within a few weeks to a few months of extraction, many varieties of honey crystallize into a cream-colored solid. Some varieties of honey, including tupelo, acacia, and sage, crystallize less regularly. Honey may be heated during bottling at temperatures of 40–49 °C (104–120 °F) to delay or inhibit crystallization. Overheating is indicated by change in enzyme levels, for instance, diastase activity, which can be determined with the Schade or the Phadebas methods. A fluffy film on the surface of the honey (like a white foam), or marble-colored or white-spotted crystallization on a container's sides, is formed by air bubbles trapped during the bottling process.</p><blockquote><p>A 2008 Italian study determined that nuclear magnetic resonance spectroscopy can be used to distinguish between different honey types, and can be used to pinpoint the area where it was produced.</p><div class='quote_owner'>- Rosalina Pong</div></blockquote><p>Honey is a popular folk treatment for burns and other skin injuries. Preliminary evidence suggests that it aids in the healing of partial thickness burns 4–5 days faster than other dressings, and moderate evidence suggests that post-operative infections treated with honey heal faster and with fewer adverse events than with antiseptic and gauze. The evidence for the use of honey in various other wound treatments is of low quality, and firm conclusions cannot be drawn. Evidence does not support the use of honey-based products for the treatment of venous stasis ulcers or ingrown toenail.Several medical-grade honey products have been approved by the FDA for use in treating minor wounds and burns.</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "15th April, 2021",
+                "comment": "Honey is a sweet, viscous food substance made by honey bees and some related insects eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "commentdate": "14th April, 2021",
+                "comment": "Honey is a sweet, viscous food substance made by honey bees and some related insects eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ]
+    }
+]
